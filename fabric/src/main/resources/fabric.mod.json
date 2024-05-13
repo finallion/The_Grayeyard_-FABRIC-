@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "graveyard",
-  "version": "3.0",
+  "version": "3.2",
 
   "name": "The Graveyard",
   "description": "Adds new bosses, structures, mobs and blocks themed around the graveyard.",
@@ -16,6 +16,7 @@
   "license": "CC0-1.0",
   "icon": "graveyard_logo.png",
 
+  "accessWidener": "graveyard.accesswidener",
   "environment": "*",
   "entrypoints": {
     "main": [
